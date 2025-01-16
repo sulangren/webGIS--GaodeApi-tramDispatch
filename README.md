@@ -49,6 +49,9 @@ GDAL: 一个用于读写栅格和矢量地理空间数据的库，通过 GDAL_LI
 8.火灾预警：该模块通过选择指定id的车辆分别在前端以该点生成50m和100m的圆，在后端会对事故车进行缓冲区分析，将50m范围内的车抛给前端，对这些车用红色图标进行覆盖。
 ![image](https://github.com/sulangren/webGIS--GaodeApi-tramDispatch/blob/master/image/7.jpg)
 
-**四、补充**\
+**四、数据库结构**\
+![image](https://github.com/sulangren/webGIS--GaodeApi-tramDispatch/blob/master/image/8.jpg)
+
+**五、补充**\
 如果想要直接使用的话，请记得收藏该项目，并表明出处，谢谢。\
-作者近段时间比较忙，需要帮助文档的话，请等待一段事件，等作者处理完后会更新文档，并发布帮助文档。
+作者近段时间比较忙，需要说明文档的话，请等待一段事件，等作者处理完后会更新文档，并发布说明文档。
